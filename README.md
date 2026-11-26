@@ -1,3 +1,4 @@
+aSasSas
 # kdb-js
 
 `kdb-js` serializes JavaScript values to kdb+ IPC bytes and deserializes kdb+ IPC bytes to JavaScript values. Use it with kdb+ WebSocket messages or with IPC frames produced by q's `-8!`. The application manages connections and message handling.
